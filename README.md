@@ -1,1 +1,2 @@
 # VietDHT
+Adafruit Sensor library.
